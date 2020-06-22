@@ -4,7 +4,7 @@
 
 <h1>Project 3: Data Visualisatie</h1>
 <p>Dit project bestond uit twee delen: Kennis vergaren en een onderzoek. Beide delen zijn gedaan met Kaggle, in het eerste deel heb ik een cursus Pandas en Data Visualisatie gedaan 
-en in het tweede deel heb ik een eigen notebook gemaakt op Kaggle.</p>
+en in het tweede deel heb ik in een notebook op Kaggle een onderzoek gedaan.</p>
 
 </head>
 <body style="background-color:aliceblue;">
@@ -12,19 +12,20 @@ en in het tweede deel heb ik een eigen notebook gemaakt op Kaggle.</p>
  <ul>
   <h2>Kaggle Cursussen</h2>
   
-    <p>Als eerste deel van dit project heb ik twee cursussen gedaan: Pandas en Data Visualisatie.</p>
+    <p>Als eerste deel van dit project hebben wij twee cursussen gedaan: Pandas en Data Visualisatie.</p>
   
     <li><h4>Pandas</h4></li>
     
   <p>Pandas is een gereedschap waarmee je een dataset zo kunt aanpassen dat hij voor jou te gebruiken is. Zo kun je o.a. het gemiddelde uitrekenen, kijken hoeveel kolommen en rijen er zijn, de index aanpassen, namen veranderen en nog veel meer.
-  Dit was voor mijn onderzoek best handig om te kunnen, aangezien ik af en toe wat dingen moest aanpassen aan mijn dataset om hem  goed te kunnen gebruiken, zoals een rij weghalen of de rijen in kolommen en de kolommen in rijen veranderen.</p>
+  Deze cursus ging eigenlijk vrij vlot, omdat er geen kennis vooraf gevraagd werd. Hierdoor begin alles bij het begin en waren de lessen goed te volgen.
+  Pandas was voor ons onderzoek best handig om te kunnen, aangezien wij af en toe wat dingen moesten aanpassen aan mijn dataset om hem goed te kunnen gebruiken, zoals een rij weghalen of de rijen in kolommen en de kolommen in rijen veranderen.</p>
   
     <li><h4>Data Visualisatie</h4></li>  
     
-  <p>Bij de cursus Data Visualisatie heb ik geleerd, zoals de naam al zegt, om data te visualiseren. Dit deden wij aan de hand van Seaborn, een programma waarmee je met weinig code grafieken en tabellen kunt maken.
-  Met Seaborn kun je o.a. lijngrafieken, heatmaps, scatterplots maken. Ook kun je de stijl van je grafieken veranderen door bijvoorbeeld de lettergrootte en kleur aan te passen.</p>
+  <p>Bij de cursus Data Visualisatie hebben wij geleerd, zoals de naam al zegt, om data te visualiseren. Dit deden wij aan de hand van Seaborn, een programma waarmee je met weinig code grafieken en tabellen kunt maken.
+  Met Seaborn kun je o.a. lijngrafieken, heatmaps en scatterplots maken. Ook kun je de stijl van je grafieken veranderen door bijvoorbeeld de lettergrootte en kleur aan te passen.</p>
   
-  <p>Later heb ik zelf ook nog een beetje pyplot geleerd, doordat sommige dingen, zoals het maken van subplots voor mij makkelijker te doen waren met pyplot. Pyplot is eigenlijk hetzelfde als Seaborn, maar wordt wat vaker gebruikt.</p>
+  <p>Later hebben we ook nog een beetje pyplot geleerd, doordat sommige dingen, zoals het maken van subplots (meerdere grafieken naast en onder elkaar) voor ons makkelijker te doen waren met pyplot. Pyplot is eigenlijk hetzelfde als Seaborn, maar wordt wat vaker gebruikt.</p>
   
   <h2>Kaggle Onderzoek</h2>
   
@@ -39,18 +40,18 @@ en in het tweede deel heb ik een eigen notebook gemaakt op Kaggle.</p>
    Dat het nu nog niet goed te beantwoorden is komt mede doordat het aantal faillissementen weergegeven in mei hoogstwaarschijnlijk al in april zijn aangevraagd enz., 
    maar ook doordat o.a. waarschijnlijk niet de hele sector Horeca last heeft van COVID-19, maar enkele delen ervan.</p>
   
-  <p>Ondanks deze tekortkomingen hebben we een heatmap gemaakt om te kijken naar het aantal faillissementen per sector. Wij gebruikten een heatmap, omdatv wij het een overzichtelijke weergave vonden van de data, doordat in één opslag te zien is waar een stijging in het aantal faillissementen zit.
-   Hier zagen wij dat Handel en Horeca beide nadeeel hadden in 2020, terwijl communicatie juist minder faillissementen had. Van deze heatmap hadden wij een paar sectoren gekozen en die verder weergegeven in een lijngrafiek.
-   Toen we de lijngrafiek zagen, vonden wij dat de verschillen die wij zo interessant vonden, eigenlijk minder betekenis hadden, wanneer ook 2016 en 2015 erbij werden gehaald.
+  <p>Ondanks deze tekortkomingen hebben we een heatmap gemaakt om te kijken naar het aantal faillissementen per sector. Wij gebruikten een heatmap, omdat wij het een overzichtelijke weergave vonden van de data, doordat in één opslag te zien is waar een stijging in het aantal faillissementen zit.
+   Hier zagen wij dat handel en horeca beide meer faillissementen hadden in 2020, vergeleken met 2017 t/m 2019, terwijl communicatie juist minder faillissementen had. Op basis van deze heatmap hadden wij een paar sectoren gekozen die wij er interessant uit vonden zien en die verder weergegeven in een lijngrafiek.
+   Toen we de lijngrafiek zagen, vonden wij dat de verschillen die wij interessant vonden, eigenlijk minder betekenis hadden, wanneer ook 2016 en 2015 erbij werden gehaald.
    De lijnen waren in die jaren namelijk vaak hoger dan in 2020, natuurlijk zou dit mogelijk kunnen zijn door o.a. een crisis, maar daar zou je dus ook informatie naar moeten zoeken.</p>
    
-   <p>Als laatste hebben wij een paar subplots gemaakt (meerdere grafieken naast en onder elkaar) van ieder jaar apart met daarin het relatief totaal aan failissementen van alle sectoren, de horeca en de handel. 
-   Deze grafieken lieten een immense ping-pong beweging zien van de Handel en Horeca, bovendien waren in veel jaren voor 2020 het aantal faillissementen hoger dan dat ze nu zijn.</p>
+   <p>Als laatste hebben wij een paar subplots gemaakt van ieder jaar apart met daarin de relatieve hoeveelheid aan failissementen van alle sectoren, de horeca en de handel. 
+   Deze grafieken lieten een immense ping-pong beweging zien van de handel en horeca, bovendien waren in veel 4 van de zes grafieken het aantal faillissementen hoger dan het aantal nu in 2020.</p>
    
    <p>Al in al moet er meer onderzoek gedaan worden voordat duidelijk kan worden of COVID-19 werkelijk een effect heeft op het aantal faillissementen, zoals onderzoek naar crisissen in afgelopen jaren en meer verdieping in de sectoren.</p> 
  
  <h2>Mening</h2>
-    <p>Ik heb dit project met mijn vader gedaan en vond het erg leuk om te doen. Ik merk wel dat doordat ik het met z'n twee hebben gedaan, het een stuk leuker was. 
+    <p>Ik heb dit project met mijn vader gedaan en vond het erg leuk om te doen. Ik merk wel dat doordat wij het met z'n twee hebben gedaan, het een stuk leuker was. 
     Dit project heeft mij veel nieuwe dingen geleerd, zoals om te gaan met pandas en het visualiseren van data. Wij zijn ook tegen veel problemen opgelopen, 
     zoals het bewerken van de datasets zo dat ze voor ons te gebruiken waren en het aanpassen van de grafiek zodat alles overzichtelijk te zien was. 
     Ook hadden we af en toe kleine probleempjes in de code, zoals het vergeten van aanhalingstekens.
