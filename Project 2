@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<h1>Astroplant 2</h1>
+
+<p>Dit project heb ik eigenlijk drie dingen gedaan: Een timelaps gemaakt, een astroplant gebouwt en een grafana dashboard gemaakt.</p>
+
+</head>
+<body style="background-color:aliceblue;">
+
+ <ul>
+ 
+<h2>Timelapse</h2>
+
+<p>De timelaps heb ik gemaakt met een raspberry pi en dit was nog best lastig. De code zelf viel wel mee, maar toen ik een paar kleine timelapsjes had gemaakt, stopte het programma wat ik gebruikte voor het maken van de timelapse ermee op. 
+Dit had te maken met een probleem bij de opslagruimte van het programms, hij zat namelijk vol, maar ook na het weghalen van de kleinere timelapsjes wou het programma nog steeds niet meewerken. 
+Ik dacht dat dit kwam doordat de timelapse die ik wou maken iets te groot was, de timelapse zou namelijk opgemaakt zijn uit erg veel foto’s. 
+Hiervoor heb ik eerst geprobeerd om de foto’s op een usb-stick te zetten en via die usb-stick de timelapse te maken, maar dat werkte niet. 
+Daarna heb ik de foto’s overgezet naar mijn computer en een app gedownload om de timelapse te maken. 
+Dit bleek ook een zoektocht, doordat veel apps of een slideshow maakten, of geld kosten. 
+Na het vinden van de juiste app ging het vrij snel en had ik een timelapse. 
+
+<h2>Astroplant</h2>
+
+<p>Dit project heb ik samen met de andere leden van het astroplant project een astroplant gebouwd. 
+Dit was erg leuk, maar er waren af en toe wel een paar problemen. 
+Een paar van die problemen waren dat niet alle schroefjes de juiste grootte waren of dat een stuk hout verkeerd gesneden was, waardoor wij moesten wachten op het juiste stuk. 
+Wat ook een heel klein probleempje was, was de handleiding. 
+Deze bestond namelijk alleen maar uit plaatjes, dus wij moesten een beetje raden over welke delen ze het hadden en in welke volgorde we dat in elkaar moesten zetten, maar na de eerste tekening ontcijferd te hebben ging dat ook vrij simpel.
+Al in al was dit erg leuk om te doen.
+
+<h2>Grafana</h2>
+
+Als laatste heb ik een grafana dashboard gemaakt, aangezien ik nu geen metingen meer neem zal hij nu geen data meer tonen. 
+De grafana dashboard is handig voor het project, omdat de data die je verzamelt van je plant je zo op een overzichtelijke manier kan zien en ook handig kan zien of er verschillen in zitten vergeleken met de dag ervoor enz. 
+Het maken van het dashboard was eigenlijk vrij simpel, doordat er een goede uitleg over gemaakt was, waarmee het snel ging. 
+Bij mijn dashboard kun je de data als een grafiek zien, en dan kun je kiezen over welke tijdsperiode je de data wil bekijken. 
+Verder heb ik ook voor elke meting, temperatuur, luchtvochtigheid, gehalte CO2 enz. gekozen dat je de laatste meting kunt zien die binnen de aangegeven tijdsperiode te zien is.</p>
+
+<h2>Mening</h2>
+
+Dit project heb ik verschillende dingen gedaan en allemaal weer wat anders, ik heb gebouwd, code geschreven en data bekeken, maar alles was erg leuk. 
+Ondanks de kleine problemen, heb ik veel geleerd, zoals wat grafana is en wat je ermee kan doen, hoe je een astroplant in elkaar kan zetten en wat daar voor nodig is en hoe je een timelapse kan maken. 
+
+</ul> 
+</body>
+</html> 
