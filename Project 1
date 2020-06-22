@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Project 1: Astroplant project</title>
+
+</head>
+<body style="background-color:aliceblue;">
+
+ <ul>
+  <li><h3>Uitleg project + aanpassingen</h3></li>
+ 
+  <p>Bij dit project koos ik voor het astroplant project, maar al snel had ik door dat het mij meer tijd zou kosten, omdat ik niet bekend was met de codes die waren geleverd en de Raspberry Pi zelf. Het was voor mij bovendien vaak niet mogelijk om de code zo te begrijpen dat ik er zelf iets mee kon doen.
+<p>De beginvraag ‘hoe kan ik met een button een led aan en uitzetten’ leidde tot een grote hoeveelheid informatie van youtube filmpjes en andere websites. Verder heb ik ook informatie gevraagd aan de docenten, die mij hebben uitgelegd dat er verschillende pinnen zijn, voor verschillende mogelijkheden, waarbij het soms nodig is om een pin speciaal te kiezen, zoals bij I2C, maar ook willekeurig zijn, zoals bij ledjes, zolang daar maar een D bij staat.</p>
+<p>Daarnaast waren er verschillende problemen, die verder beschreven zullen worden.</p>
+<p>Hoewel het al beter gaat met ledjes en knopjes, is het mij nog niet gelukt om met een knop een led aan en uit te zetten, wel heb ik een gokmachine gecreëerd.</p>
+<p>De sensoren heb ik op de CO2 sensor na allemaal aan het werk gekregen. Om de codes aan de praat te krijgen kwam ik erachter dat ik bepaalde opties bij de raspberry pi aan en uit moest zetten, zoals het I2C protocol, een docent heeft mij laten zien hoe dit moest.</p>
+<p>Bij het relais heb ik een tijd lang stilgestaan, omdat ik niet wist hoe ik hem aan mijn raspberry pi moest aansluiten. Later ben ik erachter gekomen dat ik het uiteinde eraf moest knippen en de losse draadjes aan de ventilator en de SparkFun Fuse Breakout moest koppelen. Daarna ben ik een beetje gaan spelen met de ventilator, om te kijken wat ik ermee kon doen, bij dit onderdeel heb ik hulp gekregen van loet, die zo aardig was om mij geduldig op mijn fouten te wijzen.</p>
+<p>Met de opdrachten van week 4 ben ik nog bezig, omdat ik ook hier heb gemerkt dat ik nog niet alle kennis bezit die nodig is om deze opdrachten te kunnen voltooien, omdat niet alle termen die in de code worden toegepast voor mij bekend zijn en ik niet weet hoe ik deze moet toepassen in de stukken code die ik zelf zal moeten schrijven om de code af te maken. Een van deze termen is csv, inmiddels ben ik erachter gekomen dat deze term Comma seperated values betekent, maar wat dit verder betekent, weet ik nog niet.</p>
+<p>Daarom had ik besloten om mij dit project bezig te houden met het verkennen van de sensoren en de raspberry pi en de Python code.</p>
+ 
+  <li><h3>Mening</h3></li>
+  
+   <p>Ik vond het een heel leuk project, maar ik vond het wel een uitdaging, mede doordat ik aan het begin van dit schooljaar nog nooit met een ICT achtig onderwerp ben bezig geweest, dit project was dus een sprong in het diepe, maar wel leuk, ik wil ook graag verder met dit project zodat ik met de kennis die ik nu heb me wel echt bezig kan houden met het astroplant project.</p>
+
+  <li><h3>Resultaat</h3></li>
+   <p>Het resultaat van dit project is dat ik nu meer weet over python code, ik kan nu lampjes aan en uit zetten, gebruik maken van knoppen en ik kan sensoren bedienen. Naast meer python kennis, heb ik zoals ik net al liet weten de sensoren leren kennen, voordat ik aan dit project begon wist ik niet dat ze er waren. Ook heb ik leren werken met de raspberry pi, die ook nieuw voor mij was, ik heb een account aangemaakt en ik heb ook geleerd dat er verschillende pins zijn voor verschillende doelen, hoe ik die aan moet sluiten en vervolgens kan besturen. Ik heb ook geleerd hoe ik hem op de correcte manier aan moet doen, omdat dat ook niet altijd lukte.</p>
+
+  <li><h3>Problemen/ oplossing</h3></li>
+  
+   <p>Natuurlijk hebben wij ook een paar problemen gehad, en ze zijn ook nog niet allemaal opgelost. Een probleem was de CO2 sensor, waarbij we niet en nog steeds niet weten wat er nou mis mee is, maar hij werkt niet. Wel hebben wij het vermoeden dat de sensor kapot kan zijn, omdat een nieuwe sensor wel werkte. 
+Een ander probleem was om met een knop een ledje aan en uit te zetten, want in plaats van een lichtknop hebben wij een gokmachine gecreëerd, zo noemen we hem tenminste, ook hier weten we nog niet wat er mis is gegaan, mede doordat de personen aan wie wij hulp hebben gevraagd het ook nog niet weten, ook het internet heeft tot nu toe geen bijdrage geleverd aan een oplossing, maar ik zoek nog steeds verder.</p>
+<p>Een ander probleem dat ik regelmatig heb is het opstarten van de raspberry pi. Dit probleem ligt in het in de juiste volgorde aansluiten van de kabels, zodat er beeld te zien was op de monitor. Eerst moet de raspberry pi, met de HDMI-kabel van de monitor en de kabels van het toetsenbord en de muis al aangesloten, aan worden gezet en pas daarna mag de kabel van de monitor in het stopcontact, anders dan weigert de raspberry pi om verbinding te maken met de monitor.</p>
+<p>Een ander hardware probleem dat ook is opgelost, is het probleem van het relais, want we wisten niet dat we het uiteinde eraf moesten knippen en zodra we dat wisten konden we weer verder, af en toe hebben we ook problemen gehad met de code, maar na het vragen van hulp aan docenten, er zelf goed naar te kijken en elkaar te helpen kwamen we er wel uit. In het begin was voor Chloë een punt in plaats van een komma opschrijven een punt van verwarring, maar daar is ze inmiddels overheen.</p>
+
+<li><h3>Uitleg astroplant</h3></li>
+
+ <p>Astroplant is een project, waarbij data van planten wordt verzameld, zodat Melissa, een team van ESA, dat zich bezighoudt met het creëren van een ecosysteem voor astronauten in de ruimte, kan zien welke planten geschikt zouden zijn voor astronauten om op het ruimteschip/station te laten groeien.
+ Dit is belangrijk, omdat hoe verder weg een ruimteschip zich van de aarde bevindt hoe duurder het wordt om eten, water en zuurstof naar boven te sturen. Daarom is het belangrijk om de data van planten te verzamelen, zoals de hoeveelheid zuurstof, licht en CO2 aanwezig in de ruimte waar de plant staat, zodat Melissa kan kijken welke planten het beste zouden doen in de ruimte, maar Melissa kan dit niet alleen en daarom heeft het team in 2016 de hulp gevraagd van vrijwilligers om hen daarmee te helpen, zodat zij meer data hebben om een goede ruimte plantenkas mee te bouwen.</p>
+<p>Bij dit project krijgen vrijwilligers een kit om een plant of planten in te laten groeien en de data die ze daarbij verzamelen naar ESA te sturen, de kas maakt gebruik van een raspberry pi met verschillende sensoren die gegevens verzamelen. Deze kit is ontworpen om overal te kunnen staan, een klaslokaal, slaapkamer, of schuur bijvoorbeeld. Degene die wij hier hebben staat in het klaslokaal 0.08.</p>
+</ul> 
+</body>
+</html> 
