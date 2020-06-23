@@ -2,7 +2,7 @@
 
 Hoi, ik ben Chloë en ik zit in 4V op het MLA. Hier kun je al mijn projecten van ICT in de Wolken vinden.
 
-<h1>Projecten</h1>
+<h3>Projecten</h3>
 
 <p>Dit zijn mijn projecten</p>
 
