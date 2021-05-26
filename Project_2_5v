@@ -50,8 +50,8 @@
     
     <li><h2>Informatie</h2></li>
      <p>Wanneer ik iets niet wist of een opgave niet begreep, ben ik als eerste bijna altijd het internet opgegaan. 
-     <br>Dan bezocht ik bijvoorbeeld verschillende websites of keek ik YouTube filmpjes, soms waren afbeeldingen ook helpvol.  
-     <br>Als ik hierna nog steeds niet verder kwam, heb ik de docenten of mijn ouders om hulp of om hints gevraagd.</p>
+     <br>Hier bezocht ik bijvoorbeeld verschillende websites of keek ik YouTube filmpjes, soms waren afbeeldingen ook helpvol.  
+     <br>Als ik hierna nog steeds niet verder kwam, heb ik de docenten of mijn ouders, als ze er iets van begrepen, om hulp of om hints gevraagd.</p>
     
     <li><h2>Crypto<h2></li>
     <p>Na het afronden van een deel van de forensics challenges, was ik doorgegaan met crypto. 
@@ -77,92 +77,48 @@
 
     <li><h2>Hacking</h2></li>
    
-    <p>Na crypto was ik verdergegaan met hacking. Deze opdrachten hadden veel te maken met het achterhalen of raden van wachtwoorden. 
-    <br>Ik ben tijdens het maken van deze opgavens er bijvoorbeeld achter gekomen dat sommige wachtwoorden gewoon met de URL te vinden zijn, 
-    <br>doordat bestanden soms makkelijke namen hebben, zoals wachtwoorden.txt, waardoor ze gemakkelijk gevonden kunnen worden.  
-    <br>Ook heb ik geleerd dat wachtwoorden in de sourcecode staan, of een manier waarmee het wachtwoord gegenereerd wordt. 
+    <p>Na crypto was ik verder gegaan met hacking. Deze opdrachten hadden veel te maken met het achterhalen of raden van wachtwoorden. 
+    <br>Ik ben tijdens het maken van deze opgavens er onder andere achter gekomen dat sommige wachtwoorden gewoon via de URL te vinden zijn.
+    <br>Dit komt doordat bestanden soms makkelijke namen hebben, zoals wachtwoorden.txt, waardoor ze gemakkelijk gevonden kunnen worden.  
+    <br>Ook heb ik geleerd dat wachtwoorden in de sourcecode kunnen staan, of een manier waarmee het wachtwoord gegenereerd wordt. 
     <br>Ik ben er ook achter gekomen dat er tekstbestanden zijn die robots.txt heten, en deze bestanden zorgen ervoor dat bepaalde dingen in de site niet te zien zijn. 
-    En dat kan je daar dan aangeven. 
-    Ook heb ik geleerd dat je tekst in plaatjes kunt verstoppen, dat heet steganografie. 
-    Ook heb ik veel met cookies mogen klooien. Er waren twee opdrachten die hiermee te maken hadden, en toen heb ik mezelf per ongeluk van de website verwijdert. 
-    Ook heb ik geleerd over headers, de enige headers die ik hiervoor kende waren de word headers. Headers bevatten dus eigenlijk allemaal informatie over de webpagina. 
-    Eigenlijk verteld zo’n header hoe een browser moet omgaan met de website. 
-    Ook heb ik geleerd dat er digitale poorten zijn waar een computer gebruik van maakt, zodat dingen de computer in en uit kunnen. 
-    Er zijn veel verschillende poorten, aangezien heel veel mensen dingen willen versturen en het erg druk wordt als dat allemaal door hetzelfde ding heen moet.  
+    <br>Verder heb ik geleerd dat het mogelijk is om tekst in plaatjes te verstoppen, dit heet steganografie. 
+    <br>Dankzij dit project heb ik eindelijk is een met cookies mogen klooien. Er waren twee opdrachten die met cookies te maken hadden, 
+    <br>en toen heb ik mezelf per ongeluk van de website verwijderd. 
+    <br>'Headers' was een woord wat ik buiten Word erg weinig gehoord had. Headers bevatten allemaal informatie over de webpagina,
+    <br>eigenlijk vertelt zo’n header hoe een browser moet omgaan met de website. 
+    <br>Als laatste heb ik geleerd over digitale poorten. Dat zijn 'deuren' waar een computer gebruik van maakt zodat dingen de computer in en uit kunnen, zoals mail. 
+    <br>Er zijn veel verschillende poorten, aangezien heel veel mensen dingen willen versturen en het erg druk wordt als dat allemaal door dezelfde deur heen moet. 
+    <br>Dit was een van de laatste opgaves van Hacking. 
     </p>
     
-    <h3>Motiveren</h3>
+    <li><h2>Coding</h2><li>
     
-    <p>De Microbits zijn een snelle manier om afstand te houden, maar niet echt motiverend. Om mensen te motiveren tot afstand houden hadden Kemal en ik
-    <br>een kortingssysteem bedacht. Hiervoor kan echter niet gebruik worden gemaakt van een microbit, doordat deze geen data kunnen doorsturen. 
-    <br>Er moet dan worden overgastapt naar bijvoorbeeld een arduino. 
-    <br>Helaas kwamen we hier pas aan het einde van het project achter en hebben we er weinig onderzoek naar kunnen doen.
-    <br>Voor ons kortingssysteem zou iedere arduino genummerd zijn. Iedere keer dat de afstand tussen personen kleiner is dan 1,5 meter
-    <br>stuurt de arduino dit door naar een systeem dat dit registreet. Hier komt het nummer van de arduino van pas. Dit zorgt er namelijk voor dat 
-    <br>het systeem bij iedere arduino een puntentelling kan bijhouden, waarbij hoe vaker de arduino iets doorstuurd des te meer punten er van de 
-    <br>beginhoeveelheid punten afgaan. Dit nummer zou mensen ook in staat stellen om naar een café te gaan en hun nummer door te geven. 
-    <br>Waardoor het café kan opzoeken hoeveel punten ze nog hebben, en dus ook hoeveel korting ze hebben. Hierdoor kunnen de mensen korting krijgen op drankjes. 
-    <br>Ook wouden wij deze cijfers toegankelijk maken voor de mensen zelf met een app. Wij dachten dat dit fijn zou zijn, omdat een bezoeker dan zelf ook  
-    <br>kan kijken naar hun korting. Bij deze app zou een bezoeker zijn of haar nummer 
-    <br>kunnen invoeren en dan hun korting te zien krijgen. 
-    <br>Deze app zou eventueel kunnen betekenen dat de cafés het niet zelf de hoeveelheid korting zouden hoeven opzoeken, maar wij wouden de korting  
-    <br>zo toegankelijk mogelijk maken. 
-    <br>Mensen met oude/ geen telefoons die zo'n app niet zouden kunnen downloaden, zouden met behulp van het café toch korting kunnen krijgen.</p>
+    <p>Als laatste heb ik coding gedaan. Dit komt vooral doordat deze opdrachten er erg lastig uitzagen.  
+    <br>Wanneer ik er echter aan begonnen was, realiseerde ik me dat deze opdrachten veel gemeen hadden met de opdrachten van crypto. 
+    <br>Dit kwam doordat bij veel opdrachten een code te zien was, waarmee een wachtwoord versleuteld werd, zoals een hash, 
+    <br>en dan moest je het effect van de code omkeren. Ook hier moest je een 'geheime taal' oplossen. 
+    <br>Bij coding heb ik vooral geleerd wat base64 is. Base64 is eigenlijk een manier om binaire code om te zetten naar ASCII, 
+    <br>maar in deze opgave was het gebruikt om een zin in 'geheimtaal' te zetten. 
+    <br>Base64 wordt gebruikt wanneer bijvoorbeeld een E-mail verstuurd wordt. 
+    <br>Het is dus niet echt zo handig om dingen mee te versleutelen, maar wel om meer informatie ergens 
+    <br>in te kunnen stoppen. Bij de base64 challenge liep ik even vast. Uiteindelijk bleek dat ik de code wel had uitgevoerd, maar niet 
+    <br>had omgekeerd.</p>
     
      
-  <li><h2>Oude ideeën</h2></li>
+  <li><h2>Mening, hoogtepunten en irritaties</h2></li>
      
-   <p>Aan het begin van dit project wouden we gebruik maken van een kleine chip, deze zou dan geluid maken, licht geven en de afstand tussen personen meten. 
-   <br>Wij kwamen er echter snel achter dat een chip hier vaak niet genoeg batterij voor heeft. Wij konden ook geen geschikte chip vinden. 
-   <br>Veder wouden wij ook het dragen van de chip verplicht maken, maar realiseerde ons toen dat mensen als gevolg hiervan waarschijnlijk minder zouden 
-   <br>langskomen en dat was niet de bedoeling. 
-   <br>Na geaccepteerd te hebben dat de chip niet zowel geluid zou kunnen maken als licht schijnen, moesten we kiezen. 
-   <br>Eerst kozen we voor geluid, maar dit zou kleine kinderen van streek kunnen maken. Daardoor hebben wij uiteindelijk voor licht gekozen. </p>
-   
-   <p>Een heel ander idee wat we hadden was om gebruik te maken van de camera's op het marineterrein die de drukte meten. 
-   <br>Deze camera's zijn namelijk in staat om de afstand tussen mensen te meten. 
-   <br>Wij wouden dit combineren met de slimme camera's van AmazonGo, zodat de camera's afstand tussen mensen zouden kunnen meten 
-   <br>en de mensen zouden kunnen volgen over het marineterrein. Zo zouden de mensen geen chips hoeven te dragen en zouden ze nog steeds korting kunnen krijgen.
-   <br>Ieder persoon zou dan een nummer krijgen in plaats van iedere chip. 
-   <br>Aangezien deze camera's lastig iemand zouden kunnen laten weten dat ze geen onderlinge afstand houden, waren wij
-   <br>van plan om een spotlight te richten op de mensen die geen onderlinge afstand houden. Dit was echter
-   <br>niet zo positief motiverend en daarom hebben we dit idee links laten liggen.
-  
-  <li><h2>Reflectie</h2></li>
+   <p>Dit project had natuurlijk ook leuke en minder leuke momenten. Het leukste moment was het moment wanneer ik 'de vlag' kon invullen, 
+   <br>doordat dan een groen balkje bevestigde dat je het antwoord gevonden had. Ook kwam je bij het correct invullen van de vlag hoger in de 
+   <br>ranking te staan, wat ook fijn was. De meest irritante opgave was de frequentie opdracht. 
+   <br>Deze opdracht kostte erg veel tijd om te maken, bijna twee uur. Ook was het uitvogelen van een methode erg tijdrovend. 
+   <br>Naast deze opgave was de logfile challenge ook lastig, maar bijna iedere opdracht had wel een paar tegenslagen. 
+   <br>Een opdracht ging namelijk niet altijd in een keer goed. 
+   <br>Ondanks de irritatie van een foute opdracht, was het een erg fijn project om thuis te doen, 
+   <br>doordat er niet meer nodig was dan een laptop met een internetverbinding. 
+   <br>Ook was veel hulp online te vinden en anders was appen ook een goede manier om hulp te vragen. 
+   <br>Bovendien heb ik erg veel geleerd en was het een leuk project.</p>
 
-    <h3>Aan de slag</h3>
-    <p>Wij hebben gedurende dit project constant het werk verdeeld, iedereen in ons team kreeg iedere week 
-    <br>een taak voor de aankomende week. Ieder persoon deelde dan iedere woensdag wat ze hadden gevonden. 
-    <br>Kemal heeft aan het begin van het project onderzoek gedaan naar de chips samen met mij en is toen 
-    <br>doorgegaan met onderzoek naar de microbits. Ik ben toen onderzoek gaan doen naar de camera's
-    <br>en heb daarna meegedaan met onderzoek naar de microbits.
-    <br>Dit project zat vol met tegenslagen, omdat je een idee aan het bedenken was. Dit gaat nooit in 
-    <br>een keer goed. Soms gaan dingen goed en soms niet.
-    <br>De grootste tegenslagen hadden echter meer met het team te maken, waarmee Kemal en 
-    <br>ik het project deden. Aan het begin viel er namelijk iemand af en toen kwam er halverwegen het project iemand bij. 
-    <br>Verder verloren wij ook het contact onze twee teamleden toen we niet meer naar het Metis konden. Dit had tot gevolg
-    <br>dat wij ons in tweetallen gesplitst hebben.</p>
-     
-    <h3>Hoogtepunten</h3>
-    <p>Zoals eerder al vermeld was het bezoekje aan het marineterrein een hoogtepunt. Het was echter ook erg leuk,
-    <br>om onderzoek te doen naar de camera's en microbits. Ik wist er namelijk niks vanaf. Tijdens dit project heb
-    <br>heb ik heel veel nieuwe dingen geleerd, zoals wat microbits zijn en dat ze radiosignalen van elkaar kunnen
-    <br>opvangen.
-    
-    <h3>Kennis</h3>
-    <p>Tijdens dit project heb ik veel dingen geleerd. Niet alleen heb ik kennis vergaard over microbits, slimme camera's 
-    <br>en wat voor projecten het marineterrein mee bezig is. Ik heb ook geleerd hoe het is om samen in een team te werken
-    <br>en om samen een idee te bedenken. Ook heb ik geleerd hoe lastig het is om samen te werken tijdens corona, doordat het team 
-    <br>bijna nooit allemaal bij ICT in de wolken aanwezig was en in afwezigheid niet altijd te bereiken was. Wij hebben ook geleerd
-    <br>wat scrummen is en wat daar handig aan is. Door te scrummen bedenk je met z'n allen een idee, wat er voor zorgt
-    <br>dat iedereen even actief meedoet en meedenkt. Ook zijn er zo veel verschillende visies bij een bepaald probleem
-    <br>en kan een probleem sneller en creatiever worden opgelost.
- 
-    <h3>Mening</h3>
-    <p>Het enige wat jammer was, was het constant veranderende team.
-    <br>Ik had bij dit project aan het begin wat meer programmeren verwacht, maar dat dat er niet was, was niet erg. 
-    <br>Het was een erg interessant project en ik heb veel geleerd en heb veel plezier gehad met het bedenken van een oplossing. 
-    <br>Dit komt mede doordat ik in mensen hun hoofd moest kruipen, om te kijken wat wel en niet leuk of handig zou zijn.</p>
   </ul>
    
   </body>
